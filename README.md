@@ -2,9 +2,9 @@ React with the Contect API + Redux.
 
 Getting started
 
-1.Clone this repo
-2.npm start - runs the app in the development mode.
-3.Open http://localhost:3000 to view it in the brower
+1)Clone this repo
+2)npm start - runs the app in the development mode.
+3)Open http://localhost:3000 to view it in the brower
 
 Mini Project which covers the fundamentals of React like
 
